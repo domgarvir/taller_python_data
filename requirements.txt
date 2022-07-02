@@ -1,1 +1,3 @@
-numpy pandas seaborn
+numpy
+pandas
+seaborn
