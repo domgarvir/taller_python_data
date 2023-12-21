@@ -1,6 +1,6 @@
 numpy
 pandas
-seaborn
+seaborn==0.13.0
 fuzzywuzzy
 statannot
 scipy
