@@ -4,4 +4,5 @@ seaborn
 fuzzywuzzy
 statannot
 scipy
+openpyxl
 
